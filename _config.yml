@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://hudaAlamri.github.io/AVSA"
-baseurl: "/AVSA"
+url: "http://hudaAlamri.github.io/DSTC7-Audio-Visual-Scene-Aware-Dialog-AVSD-Challenge"
+baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
